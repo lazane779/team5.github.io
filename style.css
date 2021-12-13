@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(https://scontent.fhph1-3.fna.fbcdn.net/v/t1.6435-9/p960x960/107950600_105987131193796_6155452030552115665_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZGRek3hbFtMAX-RIqzY&_nc_oc=AQmcrEugU9ga3sEr8xE38pkEtJNeuBsyohxqjxrhoHvlM7INRDGAQcTZG1Mdl-nvJ04&tn=MILcjTPxI55xC9wa&_nc_ht=scontent.fhph1-3.fna&oh=196df191a2d335794525fcc5a40891d1&oe=61C3EDE3) no-repeat;
+    background-size: cover;
+}
+
+.box {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 80px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1 {
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box h5 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.lam {
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+    block-size: 20px;
+}
+
+.contact {
+    position: absolute;
+    left: 50%;
+    top: 62%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.box li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+.box li a {
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    transition: all ease-in-out 250ms;
+}
+
+.box li a:hover {
+    color: red;
+}

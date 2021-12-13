@@ -1,0 +1,82 @@
+    body {
+        background-color: rgb(11, 192, 247);
+    }
+    
+    .img1 {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .img2 {
+        position: absolute;
+        left: 70%;
+        top: 20%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .img3 {
+        position: absolute;
+        left: 25%;
+        top: 55%;
+        transform: translate(0%, 0%);
+    }
+    
+    .img4 {
+        position: absolute;
+        left: 65%;
+        top: 55%;
+        transform: translate(0%, 0%);
+    }
+    
+    .img5 {
+        position: absolute;
+        left: 30%;
+        top: 20%;
+        transform: translate(-50%, -50%);
+    }
+    
+    #lam {
+        color: black;
+        position: absolute;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -50%);
+    }
+    
+    #kien {
+        color: black;
+        position: absolute;
+        left: 72%;
+        top: 40%;
+        transform: translate(-50%, -50%);
+    }
+    
+    #cuong {
+        color: black;
+        position: absolute;
+        left: 23%;
+        top: 82%;
+        transform: translate(0%, 0%);
+    }
+    
+    #ducanh {
+        color: black;
+        position: absolute;
+        left: 64%;
+        top: 82%;
+        transform: translate(0%, 0%);
+    }
+    
+    #thinh {
+        color: black;
+        position: absolute;
+        left: 31%;
+        top: 40%;
+        transform: translate(-50%, -50%);
+    }
+    
+    marquee {
+        color: black;
+    }
